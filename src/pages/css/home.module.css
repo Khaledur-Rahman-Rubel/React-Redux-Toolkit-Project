@@ -1,0 +1,9 @@
+.home {
+  margin: 1rem;
+  text-align: center;
+  color: darkcyan;
+}
+.home p {
+  font-size: larger;
+  padding: 0 10%;
+}

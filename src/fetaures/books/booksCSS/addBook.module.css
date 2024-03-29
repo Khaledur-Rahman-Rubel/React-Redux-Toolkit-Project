@@ -1,0 +1,30 @@
+.h2 {
+  text-align: center;
+  margin: 1rem;
+  color: darkcyan;
+}
+.form {
+  text-align: center;
+  color: darkcyan;
+}
+.form input {
+  margin: 2px;
+  width: 20rem;
+  padding: 0.2rem;
+  border: 1px solid;
+  color: darkcyan;
+  border-radius: 0.5rem;
+}
+.form button {
+  width: 5rem;
+  margin: 0.5rem;
+  padding: 0.2rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  color: darkcyan;
+  border: 2px solid;
+}
+.form button:hover {
+  background-color: darkcyan;
+  color: white;
+}

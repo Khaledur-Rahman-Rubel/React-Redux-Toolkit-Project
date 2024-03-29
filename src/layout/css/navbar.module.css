@@ -1,0 +1,14 @@
+.navbar {
+  text-align: center;
+  padding: 1rem;
+  background-color: yellowgreen;
+}
+.navlink {
+  padding: 2rem;
+  font-size: larger;
+  color: rgb(3, 10, 205);
+}
+
+nav .active {
+  color: darkcyan;
+}

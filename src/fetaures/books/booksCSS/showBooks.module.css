@@ -1,0 +1,27 @@
+.h2 {
+  text-align: center;
+  margin: 1rem;
+  color: darkcyan;
+}
+.table {
+  margin: auto;
+  color: darkcyan;
+}
+.table td,
+th {
+  border: 1px solid;
+  padding: 1rem;
+}
+.table button {
+  width: 5rem;
+  margin: 0.5rem;
+  padding: 0.2rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  color: darkcyan;
+  border: 2px solid;
+}
+.table button:hover {
+  background-color: darkcyan;
+  color: white;
+}
